@@ -1,5 +1,5 @@
 ---
-title: integrated Water-Energy-Food Systems
+title: integrated WEF Systems
 has_children: yes
 ---
 # integrated Water-Energy-Food Systems
