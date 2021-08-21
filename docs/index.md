@@ -1,7 +1,7 @@
 title: Startseite
 nav_order: 1
 
-#Learning Materials for Understanding and Operationalizing the Water-Energy-Food Nexus
+# Learning Materials for Understanding and Operationalizing the Water-Energy-Food Nexus
 ## Outline
 - Introduction to Water-Energy-Food (WEF) Nexus Thinking
 - Water, Energy and Food Securities - concepts, dimensions and indicators
