@@ -9,3 +9,6 @@ has_children: yes
 - Agrivoltaics
 - Wind-powered Desalination for Irrigation
 - Agroforestry
+___
+## Organizaton
+[ITT Cologne](https://www.tt.th-koeln.de/)
