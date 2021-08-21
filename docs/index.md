@@ -1,4 +1,4 @@
-title: Startseite
+title: Start
 nav_order: 1
 
 # Learning Materials for Understanding and Operationalizing the Water-Energy-Food Nexus
