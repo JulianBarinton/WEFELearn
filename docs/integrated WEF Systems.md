@@ -1,8 +1,8 @@
 ---
-title: 1
+title: integrated Water-Energy-Food Systems
 has_children: yes
 ---
-#integrated Water-Energy-Food Systems
+# integrated Water-Energy-Food Systems
 
 ## Examples including Case Studies
 Biogas + X
