@@ -1,6 +1,7 @@
 ---
 title: Start
 nav_order: 1
+has_children: yes
 ---
 
 # Learning Materials for Understanding and Operationalizing the Water-Energy-Food Nexus
