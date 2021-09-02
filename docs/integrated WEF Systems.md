@@ -7,7 +7,7 @@ has_children: yes
 
 [![IMAGE_WEF_NEXUS_SOUND_SOLUTIONS](http://img.youtube.com/vi/NdoSNjY0jt4/0.jpg)](http://www.youtube.com/watch?v=NdoSNjY0jt4 "LU9 WEF Nexus sound solutions")
 
-https://www.youtube.com/watch?v=NdoSNjY0jt4
+
 ## Examples including Case Studies
 - Biogas + X
 - Agrivoltaics
@@ -15,6 +15,7 @@ https://www.youtube.com/watch?v=NdoSNjY0jt4
 - Agroforestry
 
 ___
+
 ## Organizaton
 [ITT Cologne](https://www.tt.th-koeln.de/)
 
