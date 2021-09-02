@@ -1,5 +1,4 @@
 ---
-parent: Start
 title: integrated WEF Systems
 has_children: yes
 ---
