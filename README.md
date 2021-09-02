@@ -1,6 +1,5 @@
 # WEFELearn
 
-
 # Startseite eines Ordners definieren
 
 `index.md` nennen z.B. `docs/index.md`
@@ -26,6 +25,12 @@ Folgende Anweisung am Anfang einer .md Datei definiert eine Unterseite in der Na
         ---
     
         
+# Weiterbearbeitung der Website durch TH Köln
+bitte dieses Projekt forken und unter Wunschnamen fortsetzen
+
+# Aufrufen der Website
+https://julianbarinton.github.io/WEFELearn/
+
 # Github Markdown
 
 https://guides.github.com/features/mastering-markdown/
