@@ -1,6 +1,6 @@
 ---
-title: Biogas + x
 parent: integrated WEF Systems
+title: Biogas + x
 has_children: no
 ---
 
