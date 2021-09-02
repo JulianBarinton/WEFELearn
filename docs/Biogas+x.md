@@ -32,8 +32,9 @@ Biogas:
 ## WEF Interconnections
 Biogas units recycle biodegradable material from the food, water, and waste sector (wastewater, food waste, plant residues, weeds, animal manure for production). As an outcome, they can provide energy in the form of heat, electricity, and mobility, as well as fertilizer for the agricultural sector. Moreover, biogas can be stored. Thus, CHP units can dispatch their energy generation, providing highly required flexible electricity production for grids with high intermitting renewable energy production (solar & wind). 
 Main WEF nexus trade-offs are additional water consumption, land requirements occurring when cultivating energy crops (e.g., maize, sorghum, wheat) ([Pacetti et al., 2015](https://doi.org/10.1016/j.jclepro.2015.03.084)), as well as energy and labor demands for the transport of the substrate. 
+
 ## Topology
-![Biogas+x_topology](https://github.com/JulianBarinton/WEFELearn/blob/main/docs/assets/Biogas%2Bx.png), Source: [Tanigwawa, 2017](https://www.eesi.org/files/FactSheet_Biogas_2017.09.pdf)
+![Biogas+x_topology](https://github.com/JulianBarinton/WEFELearn/blob/main/docs/assets/Biogas%2Bx.png) Source: [Tanigwawa, 2017](https://www.eesi.org/files/FactSheet_Biogas_2017.09.pdf)
 
 ## Variants
 The efficiency of biogas production can be increased by co-digesting the organic input material in specific mixture formulas (e.g., wastewater with food waste ([Al-Addous et al., 2019](https://doi.org/10.3390/en12010032); [Montecchio et al., 2019](https://doi.org/10.1016/j.wasman.2019.07.036)). Further, biogas production can be combined with other productive uses like water purification. Therefore, the CHP unit's heat is used for membrane distillation of the source water ([Khan et al., 2014](https://doi.org/10.1016/j.seta.2014.03.004)).
