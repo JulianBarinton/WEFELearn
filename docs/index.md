@@ -12,6 +12,11 @@ has_children: yes
 - WEF Nexus data and assessment tools: qualitative, quantitative and governance related tools
 - Nexus Governance Solutions - case studies
 - Nexus sound solutions and technologies: integrated Water-Energy-Food Systems
+
 ___
+
 ## Organizaton
 [ITT Cologne](https://www.tt.th-koeln.de/)
+
+## Licence
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
