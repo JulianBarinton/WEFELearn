@@ -26,7 +26,7 @@ Folgende Anweisung am Anfang einer .md Datei definiert eine Unterseite in der Na
     
         
 # Weiterbearbeitung der Website durch TH Köln
-bitte dieses Projekt forken und unter Wunschnamen fortsetzen (oben rechts)
+bitte dieses Projekt  forken (oben rechts) und unter Wunschnamen fortsetzen 
 
 # Aufrufen der Website
 https://julianbarinton.github.io/WEFELearn/
