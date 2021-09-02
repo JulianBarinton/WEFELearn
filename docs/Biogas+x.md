@@ -37,6 +37,11 @@ Main WEF nexus trade-offs are additional water consumption, land requirements oc
 
 ## Variants
 The efficiency of biogas production can be increased by co-digesting the organic input material in specific mixture formulas (e.g., wastewater with food waste ([Al-Addous et al., 2019](https://doi.org/10.3390/en12010032); [Montecchio et al., 2019](https://doi.org/10.1016/j.wasman.2019.07.036)). Further, biogas production can be combined with other productive uses like water purification. Therefore, the CHP unit's heat is used for membrane distillation of the source water ([Khan et al., 2014](https://doi.org/10.1016/j.seta.2014.03.004)).
+
 ___
+
 ## Organizaton
 [ITT Cologne](https://www.tt.th-koeln.de/)
+
+## Licence
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
